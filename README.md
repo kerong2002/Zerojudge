@@ -1,7 +1,6 @@
 # Leetcode
 ##### Programer：KeRong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finish：303 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update：2022/08/26
 ![](https://i.imgur.com/kApUvvh.gif)
-# zerojudge
 ###### Author:KeRong &emsp;&emsp;Designer:RenFu &emsp;&emsp;Update:111/8/11 
 <font size=1>
 <font face="微軟正黑體">
