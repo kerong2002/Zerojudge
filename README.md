@@ -1,5 +1,5 @@
 # Zerojudge
-##### Programer:KeRong &emsp;&emsp;Designer:RenFu &emsp;&emsp;Finish：303&emsp;&emsp;Update:111/8/26 
+##### Programer：KeRong &emsp;Designer：RenFu &emsp;Finish：303 &emsp;Update：111/8/26 
 ![](https://i.imgur.com/K4GnRjP.gif)
 
 | 題號 | 題型 | 執行效率 | 難度☆\\★ | 我的程式  |
