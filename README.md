@@ -1,5 +1,5 @@
 # Zerojudge
-###### Author:KeRong &emsp;&emsp;Designer:RenFu &emsp;&emsp;Update:111/8/11 
+###### Author:KeRong &emsp;&emsp;&emsp;&emsp;Designer:RenFu&emsp;&emsp;&emsp;&emsp;Finish：303 &emsp;&emsp;&emsp;&emsp;Update:111/8/11 
 ![](https://i.imgur.com/K4GnRjP.gif)
 
 | 題號 | 題型 | 執行效率 | 難度☆\\★ | 我的程式  |
