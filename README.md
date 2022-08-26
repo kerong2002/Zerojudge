@@ -1,6 +1,6 @@
 # Zerojudge
 ##### Programer：KeRong &emsp;Designer：RenFu &emsp;Finish：303 &emsp;Update：111/8/26 
-![](https://i.imgur.com/K4GnRjP.gif)
+![](https://i.imgur.com/4EpA1ZN.gif)
 
 | 題號 | 題型 | 執行效率 | 難度☆\\★ | 我的程式  |
 |-|-|-|-|-|
