@@ -1,10 +1,6 @@
-# Leetcode
-##### Programer：KeRong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finish：303 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update：2022/08/26
-![](https://i.imgur.com/kApUvvh.gif)
+# Zerojudge
 ###### Author:KeRong &emsp;&emsp;Designer:RenFu &emsp;&emsp;Update:111/8/11 
-<font size=1>
-<font face="微軟正黑體">
-<font face="Microsoft JhengHei">
+![](https://i.imgur.com/K4GnRjP.gif)
 
 | 題號 | 題型 | 執行效率 | 難度☆\\★ | 我的程式  |
 |-|-|-|-|-|
@@ -213,6 +209,4 @@
 | [h089. 疊披薩](https://zerojudge.tw/ShowProblem?problemid=h089) | 遞迴 | (0.3s,88KB) | ★★★☆☆ | [h089 疊披薩.c](https://github.com/kerong2002/kerong_zerojudge/blob/main/h089%20%E7%96%8A%E6%8A%AB%E8%96%A9.c)  |
 | [i510. 尋找子字串](https://zerojudge.tw/ShowProblem?problemid=i510) | 字串處理 | (64ms,192KB) | ★★★☆☆ | [i510 尋找子字串.c](https://github.com/kerong2002/kerong_zerojudge/blob/main/i510%20%E5%B0%8B%E6%89%BE%E5%AD%90%E5%AD%97%E4%B8%B2.c)  |
 
-</font>
-</font>
-</font>
+
