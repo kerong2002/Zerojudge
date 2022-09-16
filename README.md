@@ -37,8 +37,6 @@
 | [a111. 12149 - Feynman](https://zerojudge.tw/ShowProblem?problemid=a111) | 數學 | (1ms,68KB) | ★★☆☆☆  |
 | [a121. 質數又來囉](https://zerojudge.tw/ShowProblem?problemid=a121) | 質數 | (0.3s,120KB) | ★★★☆☆  |
 | [a130. 12015 - Google is Feeling Lucky](https://zerojudge.tw/ShowProblem?problemid=a130 "[]") | 字串 | (1ms,68KB) | ★☆☆☆☆  |
-|   | 　 | 　 | 　 |
-|   | 　 | 　 | 　 |
 | [a147. Print it all](https://zerojudge.tw/ShowProblem?problemid=a147) | 窮舉 | (4ms,64KB) | ★☆☆☆☆  |
 | [a148. You Cannot Pass?!](https://zerojudge.tw/ShowProblem?problemid=a148) | 數學 | (1ms,84KB) | ★☆☆☆☆  |
 | [a149. 乘乘樂](https://zerojudge.tw/ShowProblem?problemid=a149) | 字元處理 | (1ms,96KB) | ★☆☆☆☆  |
