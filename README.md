@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/4EpA1ZN.gif)
 
 | 題號 | 題型 | 程式執行效率 | 難度☆\\★  |
-|-|-|-|-|
+|-|:-:|:-:|:-:|
 | [a001. 哈囉](https://zerojudge.tw/ShowProblem?problemid=a001) | 基本輸入輸出 | (2ms,80KB) | ★☆☆☆☆  |
 | [a002. 簡易加法](https://zerojudge.tw/ShowProblem?problemid=a002) | 基本輸入輸出 | (2ms,104KB) | ★☆☆☆☆  |
 | [a003. 兩光法師占卜術](https://zerojudge.tw/ShowProblem?problemid=a003) | 曆法 | (1ms,96KB) | ★☆☆☆☆  |
