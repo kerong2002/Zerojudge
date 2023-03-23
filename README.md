@@ -1,5 +1,5 @@
 # Zerojudge
-##### Programer：KeRong &emsp;Designer：RenFu &emsp;Finish：319 &emsp;Update：112/03/23 
+##### Programer：KeRong &emsp;Designer：RenFu &emsp;Finish：319 &emsp;Update：2023/03/23 
 <!-- ![](https://i.imgur.com/4EpA1ZN.gif)-->
 ![image](https://user-images.githubusercontent.com/70834651/199206999-d0fd42a7-099c-40b6-98b9-fbcc7c9dbea8.png)
 
